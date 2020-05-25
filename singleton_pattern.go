@@ -14,5 +14,3 @@ func GetInstance() *Singleton {
 	})
 	return singleton
 }
-
-// new
